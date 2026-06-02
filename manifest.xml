@@ -11,7 +11,7 @@
   <SupportUrl DefaultValue="https://www.onlinedersmerkezi.com/"/>
   <AppDomains>
     <AppDomain>https://karalama01.github.io/ODM-Excel-Panel/</AppDomain>
-    <AppDomain>https://karalama01.github.io</AppDomain>
+<!--    <AppDomain>https://karalama01.github.io</AppDomain>-->
     <AppDomain>https://res-1.cdn.office.net</AppDomain>
     <AppDomain>https://login.microsoftonline.com</AppDomain>
     <AppDomain>https://graph.microsoft.com</AppDomain>
